@@ -21,3 +21,17 @@ console.log(boolean);
    console.log(stringnumber);
    console.log(typeof stringnumber);
 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
