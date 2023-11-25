@@ -10,6 +10,7 @@
  console.log(2%3);
  console.log(2/3);
 
+
   let str1 = " hello " 
   let str2 = " Abhijeet " 
 
